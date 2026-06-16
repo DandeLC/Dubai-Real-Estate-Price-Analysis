@@ -1,1 +1,54 @@
+# =========================
+# Python
+# =========================
 
+__pycache__/
+*.py[cod]
+
+# =========================
+# Jupyter
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# Virtual environments
+# =========================
+
+venv/
+.venv/
+env/
+
+# =========================
+# Dataset files
+# =========================
+
+data/raw/*
+data/processed/*
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# =========================
+# Trained models
+# =========================
+
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.model
+
+# =========================
+# Operating system files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE files
+# =========================
+
+.vscode/
+.idea/
