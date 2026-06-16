@@ -1,5 +1,5 @@
 # Dubai-Real-Estate-Price-Analysis
-This repository contains code and report for the 'Dubai-Real-Estate-Price-Analysis' project.
+This project analyses residential property transactions in Dubai and develops machine learning models to understand and predict property prices.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -67,7 +67,7 @@ The project is divided into five main stages:
 3. **Feature Engineering:**
    - Developer extraction
    - Area-level market statistics
-   - Amenitiy indicators
+   - Amenity indicators
    - Log-transformed pricing variables
 
 4. **Statistical Analysis:**
@@ -77,7 +77,7 @@ The project is divided into five main stages:
    - Effect size calculations
    - Correlation analysis
 
-5. **Predictive Modelliing:**
+5. **Predictive Modelling:**
    - Baseline linear models
    - Regularised regression
    - Tree-based machine learning models
@@ -94,7 +94,7 @@ The project is divided into five main stages:
 - LightGBM
 - Matplotlib
 - Jupyter Notebook
-- Git & Github
+- Git & GitHub
 
 ### Skills Demonstrated
 - Data Cleaning
